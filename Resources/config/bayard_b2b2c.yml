@@ -1,0 +1,21 @@
+# Default configuration for "BayardB2b2cCommonBundle"
+bayard_b2b2c_common:
+    data_fixtures:
+
+        # The folder in which fixtures are stored.
+        folder:               /Resources/fixtures/ # Required
+
+        # Determine if take 'namespace' or 'bundle' parameter
+        reflection_method:    bundle # One of "namespace"; "bundle", Required
+
+        # The namespace from which fixture folder will be found.
+        namespace:            ~
+
+        # The bundle from which fixture folder will be found.
+        bundle:               BayardB2b2cCommonBundle
+
+        # The dataset folder name that contains fixtures files to be loaded.
+        dataset:              primitive_dataset # Required
+
+        # The fixtures files format.
+        format:               json # One of "json", Required

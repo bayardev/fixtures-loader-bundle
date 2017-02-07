@@ -1,0 +1,23 @@
+[
+    {
+        "Username": "hadm",
+        "Firstname": "Héraclette",
+        "Name": "Admin",
+        "Email": "adm1@t.co",
+        "Password": "pass"
+    },
+    {
+        "Username": "badm",
+        "Firstname": "Britomarteau",
+        "Name": "Admin",
+        "Email": "adm2@t.co",
+        "Password": "pass"
+    },
+    {
+        "Username": "aadm",
+        "Firstname": "Athénappe",
+        "Name": "Admin",
+        "Email": "adm3@t.co",
+        "Password": "pass"
+    }
+]

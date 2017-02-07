@@ -1,0 +1,38 @@
+[
+    {
+        "object": {
+            "reference": "so-1jour1actu-decouverte"
+        },
+        "relations": [
+            {
+                "reference": "a-nicoa-a1-t-co"
+            }
+        ]
+    },
+    {
+        "object": {
+            "reference": "so-1jour1actu-premium"
+        },
+        "relations": [
+            {
+                "reference": "a-nicoa-a1-t-co"
+            },
+            {
+                "reference": "a-dava-a2-t-co"
+            }
+        ]
+    },
+    {
+        "object": {
+            "reference": "so-1jour1actu"
+        },
+        "relations": [
+            {
+                "reference": "a-roba-a3-t-co"
+            },
+            {
+                "reference": "a-roma-a4-t-co"
+            }
+        ]
+    }
+]

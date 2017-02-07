@@ -1,0 +1,54 @@
+[
+    {
+        "object": {
+            "reference": "b-cm1-cm1"
+        },
+        "relations": [
+            {
+                "reference": "m-abdm-m1-t-co"
+            },
+            {
+                "reference": "m-fabm-m2-t-co"
+            }
+        ]
+    },
+    {
+        "object": {
+            "reference": "b-ce2-ce2"
+        },
+        "relations": [
+            {
+                "reference": "m-abdm-m1-t-co"
+            },
+            {
+                "reference": "m-ariem-m3-t-co"
+            }
+        ]
+    },
+    {
+        "object": {
+            "reference": "b-eds-etude-du-soir"
+        },
+        "relations": [
+            {
+                "reference": "m-virm-m4-t-co"
+            },
+            {
+                "reference": "m-jenm-m5-t-co"
+            },
+            {
+                "reference": "m-fredm-m6-t-co"
+            }
+        ]
+    },
+    {
+        "object": {
+            "reference": "b-gav-groupe-audiovisuel"
+        },
+        "relations": [
+            {
+                "reference": "m-jenm-m5-t-co"
+            }
+        ]
+    }
+]

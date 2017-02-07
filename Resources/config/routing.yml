@@ -1,0 +1,3 @@
+bayard_b2b2c_common_homepage:
+    path:     /
+    defaults: { _controller: BayardB2b2cCommonBundle:Default:index }

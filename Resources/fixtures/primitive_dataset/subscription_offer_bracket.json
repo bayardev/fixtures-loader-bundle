@@ -1,0 +1,25 @@
+[
+    {
+        "object": {
+            "reference": "so-1jour1actu-decouverte"
+        },
+        "relations": [
+            {
+                "reference": "b-cm1-cm1"
+            }
+        ]
+    },
+    {
+        "object": {
+            "reference": "so-1jour1actu"
+        },
+        "relations": [
+            {
+                "reference": "b-eds-etude-du-soir"
+            },
+            {
+                "reference": "b-gav-groupe-audiovisuel"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Code": "CM1",
+        "Label": "CM1",
+        "Customer": {
+            "reference": "c-jjc-c1-t-co"
+        },
+        "BracketType": {
+            "reference": "bt-cla-classe"
+        }
+    },
+    {
+        "Code": "CE2",
+        "Label": "CE2",
+        "Customer": {
+            "reference": "c-jjc-c1-t-co"
+        },
+        "BracketType": {
+            "reference": "bt-cla-classe"
+        }
+    },
+    {
+        "Code": "EDS",
+        "Label": "Etude du soir",
+        "Customer": {
+            "reference": "c-pc-c2-t-co"
+        },
+        "BracketType": {
+            "reference": "bt-cdi-centre-documentaire-et-informataire"
+        }
+    },
+    {
+        "Code": "GAV",
+        "Label": "Groupe audiovisuel",
+        "Customer": {
+            "reference": "c-pc-c2-t-co"
+        },
+        "BracketType": {
+            "reference": "bt-sal-salle"
+        }
+    }
+]

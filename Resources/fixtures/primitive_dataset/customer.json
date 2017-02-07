@@ -1,0 +1,32 @@
+[
+    {
+        "Username": "jjc",
+        "Firstname": "Jean-Jacques",
+        "Name": "Customer",
+        "Email": "c1@t.co",
+        "CustomerType": {
+            "reference": "ct-eco-ecole"
+        },
+        "Password": "pass"
+    },
+    {
+        "Username": "pc",
+        "Firstname": "Pierre",
+        "Name": "Customer",
+        "Email": "c2@t.co",
+        "CustomerType": {
+            "reference": "ct-med-mediatheque"
+        },
+        "Password": "pass"
+    },
+    {
+        "Username": "vinc",
+        "Firstname": "Vincent",
+        "Name": "Customer",
+        "Email": "c3@t.co",
+        "CustomerType": {
+            "reference": "ct-eco-ecole"
+        },
+        "Password": "pass"
+    }
+]

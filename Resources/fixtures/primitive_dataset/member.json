@@ -1,0 +1,95 @@
+[
+    {
+        "Username": "abdm",
+        "Firstname": "Abdel",
+        "Name": "Member",
+        "Email": "m1@t.co",
+        "Customer": {
+            "reference": "c-jjc-c1-t-co"
+        },
+        "Password": "pass"
+    },
+    {
+        "Username": "fabm",
+        "Firstname": "Fabien",
+        "Name": "Member",
+        "Email": "m2@t.co",
+        "Customer": {
+            "reference": "c-jjc-c1-t-co"
+        },
+        "Password": "pass"
+    },
+    {
+        "Username": "ariem",
+        "Firstname": "Arielle",
+        "Name": "Member",
+        "Email": "m3@t.co",
+        "Customer": {
+            "reference": "c-jjc-c1-t-co"
+        },
+        "Password": "pass"
+    },
+    {
+        "Username": "virm",
+        "Firstname": "Virginie",
+        "Name": "Member",
+        "Email": "m4@t.co",
+        "Customer": {
+            "reference": "c-pc-c2-t-co"
+        },
+        "Password": "pass"
+    },
+    {
+        "Username": "jenm",
+        "Firstname": "Jennifer",
+        "Name": "Member",
+        "Email": "m5@t.co",
+        "Customer": {
+            "reference": "c-pc-c2-t-co"
+        },
+        "Password": "pass"
+    },
+    {
+        "Username": "fredm",
+        "Firstname": "Frédéric",
+        "Name": "Member",
+        "Email": "m6@t.co",
+        "Customer": {
+            "reference": "c-pc-c2-t-co"
+        },
+        "Password": "pass"
+    },
+    {
+        "Username": "norm",
+        "Firstname": "Norédine",
+        "Name": "Member",
+        "Email": "m7@t.co",
+        "Customer": {
+            "reference": "c-vinc-c3-t-co"
+        },
+        "Password": "pass"
+    },
+    {
+        "Username": "marm",
+        "Firstname": "Marielle",
+        "Name": "Member",
+        "Email": "m8@t.co",
+        "Customer": {
+            "reference": "c-vinc-c3-t-co"
+        },
+        "Password": "pass",
+        "Avatar": {
+            "reference": "avatar-a1516b2f04ff65c16a07f506dcc733cf-jpeg"
+        }
+    },
+    {
+        "Username": "dorom",
+        "Firstname": "Dorothée",
+        "Name": "Member",
+        "Email": "m9@t.co",
+        "Customer": {
+            "reference": "c-vinc-c3-t-co"
+        },
+        "Password": "pass"
+    }
+]

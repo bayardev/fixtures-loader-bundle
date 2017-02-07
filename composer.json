@@ -1,0 +1,34 @@
+{
+    "name": "bayardev/fixtures-loader-bundle",
+    "description": "Fixtures Loader Symfony Bundle",
+    "type": "symfony-bundle",
+    "license" : [
+        "Copyright: Bayard-Presse"
+    ],
+    "authors": [
+        {
+            "name": "Massimiliano Pasquesi",
+            "email": "massimiliano.pasquesi@bayard-presse.com",
+            "role": "Lead Devoloper"
+        }
+    ],
+    "support": {
+        "email": "massimiliano.pasquesi@bayard-presse.com",
+        "source": ""
+    },
+    "require": {
+        "php": "7.0.*",
+        "symfony/symfony": "3.2.*"
+    },
+    "require-dev": {
+        "doctrine/doctrine-fixtures-bundle": "^2.3"
+    },
+    "autoload": {
+        "psr-4": { "Bayard\\Bundle\\FixturesLoaderBundle\\": "" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
+    }
+}

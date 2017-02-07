@@ -1,0 +1,17 @@
+[
+    {
+        "label": "1jour1actu Découverte",
+        "maxAgents": 1,
+        "maxMembers": 10
+    },
+    {
+        "label": "1jour1actu",
+        "maxAgents": 3,
+        "maxMembers": 30
+    },
+    {
+        "label": "1jour1actu Premium",
+        "maxAgents": 10,
+        "maxMembers": 100
+    }
+]

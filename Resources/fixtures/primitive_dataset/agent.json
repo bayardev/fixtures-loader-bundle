@@ -1,0 +1,42 @@
+[
+    {
+        "Username": "nicoa",
+        "Firstname": "Nicolas",
+        "Name": "Agent",
+        "Email": "a1@t.co",
+        "Customer": {
+            "reference": "c-jjc-c1-t-co"
+        },
+        "Password": "pass"
+    },
+    {
+        "Username": "dava",
+        "Firstname": "David",
+        "Name": "Agent",
+        "Email": "a2@t.co",
+        "Customer": {
+            "reference": "c-jjc-c1-t-co"
+        },
+        "Password": "pass"
+    },
+    {
+        "Username": "roba",
+        "Firstname": "Robert",
+        "Name": "Agent",
+        "Email": "a3@t.co",
+        "Customer": {
+            "reference": "c-pc-c2-t-co"
+        },
+        "Password": "pass"
+    },
+    {
+        "Username": "roma",
+        "Firstname": "Romain",
+        "Name": "Agent",
+        "Email": "a4@t.co",
+        "Customer": {
+            "reference": "c-pc-c2-t-co"
+        },
+        "Password": "pass"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "Code": "CLA",
+        "Label": "Classe"
+    },
+    {
+        "Code": "SAL",
+        "Label": "Salle"
+    },
+    {
+        "Code": "CDI",
+        "Label": "Centre documentaire et informataire"
+    }
+]

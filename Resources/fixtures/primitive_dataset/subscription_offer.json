@@ -1,0 +1,62 @@
+[
+    {
+        "offer": {
+            "reference": "o-1jour1actu-decouverte"
+        },
+        "customer": {
+            "reference": "c-jjc-c1-t-co"
+        },
+        "label": "1jour1actu Découverte",
+        "dateStart": {
+            "__datetime": "2016-05-21"
+        },
+        "dateEnd": {
+            "__datetime": "2016-12-01"
+        }
+    },
+    {
+        "offer": {
+            "reference": "o-1jour1actu-premium"
+        },
+        "customer": {
+            "reference": "c-jjc-c1-t-co"
+        },
+        "label": "1jour1actu Premium",
+        "dateStart": {
+            "__datetime": "2016-07-01"
+        },
+        "dateEnd": {
+            "__datetime": "2017-07-01"
+        }
+    },
+    {
+        "offer": {
+            "reference": "o-1jour1actu"
+        },
+        "customer": {
+            "reference": "c-pc-c2-t-co"
+        },
+        "label": "1jour1actu",
+        "dateStart": {
+            "__datetime": "2015-02-01"
+        },
+        "dateEnd": {
+            "__datetime": "2017-02-01"
+        }
+    },
+    {
+        "offer": {
+            "reference": "o-1jour1actu"
+        },
+        "customer": {
+            "reference": "c-vinc-c3-t-co"
+        },
+        "label": "1jour1actu",
+        "dateStart": {
+            "__datetime": "2016-02-01"
+        },
+        "dateEnd": {
+            "__datetime": "2017-03-04"
+        }
+    }
+]

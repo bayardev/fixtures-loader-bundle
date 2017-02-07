@@ -1,0 +1,4 @@
+services:
+    bayard.data_fixtures_manager:
+        class: Bayard\Bundle\FixturesLoaderBundle\Manager\DataFixturesManager
+        arguments: []
